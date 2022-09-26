@@ -1,5 +1,17 @@
 # OPS IN DEVOPS:-
 
+Greetings to my fellow Technology Advocates and Specialists.
+
+In this Session, I talk and run Demo on __OPS IN DEVOPS__ in __JOURNEY TO THE CLOUD 9.0__
+
+| __LIVE RECORDED SESSION:-__ |
+| --------- |
+| __LIVE DEMO__ was Recorded as part of my Presentation in __JOURNEY TO THE CLOUD 9.0__ Forum/Platform |
+| Duration of My Demo = __55 Mins 42 Secs__ |
+
+| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/EGIOzEpOxzE/0.jpg)](https://www.youtube.com/watch?v=EGIOzEpOxzE) |
+| --------- |
+
 | __DATE__ | __TOPICS__ | __CONTENT__ |
 | --------- |:---------:| -------:|
 | 29.08.2022 | ROTATE STORAGE ACCOUNT KEYS USING AZ DEVOPS | https://dev.to/arindam0310018/rotate-storage-account-keys-using-az-devops-n71 |
