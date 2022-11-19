@@ -12,6 +12,8 @@ In this Session, I talk and run Demo on __OPS IN DEVOPS__ in __JOURNEY TO THE CL
 
 | __DATE__ | __TOPICS__ | __CONTENT__ |
 | --------- |:---------:| -------:|
+| 18.09.2022 | SFTP WITH AZ DEVOPS | https://dev.to/arindam0310018/sftp-with-az-devops-7on |
+| 15.09.2022 | CREATE SERVICE CONNECTION USING DEVOPS CLI | https://dev.to/arindam0310018/create-service-connection-using-devops-cli-2k59 |
 | 29.08.2022 | ROTATE STORAGE ACCOUNT KEYS USING AZ DEVOPS | https://dev.to/arindam0310018/rotate-storage-account-keys-using-az-devops-n71 |
 | 26.08.2022 | CREATE AAD GROUP USING AZ DEVOPS | https://dev.to/arindam0310018/create-aad-group-using-az-devops-2peb |
 | 18.08.2022 | RESET SERVICE PRINCIPAL SECRET AND STORE IN KEY VAULT USING AZ DEVOPS | https://dev.to/arindam0310018/reset-service-principal-secret-and-store-in-key-vault-using-az-devops-2h8o |
