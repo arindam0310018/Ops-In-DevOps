@@ -5,8 +5,8 @@ Greetings to my fellow Technology Advocates and Specialists.
 In this Session, I talk and run Demo on __OPS IN DEVOPS__ in below __TECH COMMUNITIES__:-
 | __NAME OF THE TECH COMMUNITIES:-__ |
 | --------- |
-| FESTIVE TECH CALENDAR 2022 |
-| JOURNEY TO THE CLOUD 9.0 |
+| Festive Tech Calendar 2022 |
+| Journey to the Cloud 9.0 |
 
 | __LIVE RECORDED SESSION:-__ |
 | --------- |
