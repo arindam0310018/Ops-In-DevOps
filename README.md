@@ -5,13 +5,13 @@ Greetings to my fellow Technology Advocates and Specialists.
 In this Session, I talk and run Demo on __OPS IN DEVOPS__ in below __TECH COMMUNITIES__:-
 | __NAME OF THE TECH COMMUNITIES:-__ |
 | --------- |
-| __FESTIVE TECH CALENDAR 2022__ |
-| __JOURNEY TO THE CLOUD 9.0__ |
+| FESTIVE TECH CALENDAR 2022 |
+| JOURNEY TO THE CLOUD 9.0 |
 
 | __LIVE RECORDED SESSION:-__ |
 | --------- |
 | __LIVE DEMO__ was Recorded as part of my Presentation in __FESTIVE TECH CALENDAR 2022__ Forum/Platform |
-| Duration of My Demo = __ 1 Hour 05 Mins 08 Secs__ |
+| Duration of My Demo = __1 Hour 05 Mins 08 Secs__ |
 | [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/pcIVKO2dlEI/0.jpg)](https://www.youtube.com/watch?v=pcIVKO2dlEI&t=80s) |
 | __LIVE DEMO__ was Recorded as part of my Presentation in __JOURNEY TO THE CLOUD 9.0__ Forum/Platform |
 | Duration of My Demo = __55 Mins 42 Secs__ |
