@@ -19,6 +19,7 @@ In this Session, I talk and run Demo on __OPS IN DEVOPS__ in below __TECH COMMUN
 
 | __DATE__ | __TOPICS__ | __CONTENT__ |
 | --------- |:---------:| -------:|
+| 30.01.2023 | CREATE DOCKER REGISRY SERVICE CONNECTION USING DEVOPS CLI | https://dev.to/arindam0310018/create-docker-regisry-service-connection-using-devops-cli-1an8 |
 | 18.09.2022 | SFTP WITH AZ DEVOPS | https://dev.to/arindam0310018/sftp-with-az-devops-7on |
 | 15.09.2022 | CREATE SERVICE CONNECTION USING DEVOPS CLI | https://dev.to/arindam0310018/create-service-connection-using-devops-cli-2k59 |
 | 29.08.2022 | ROTATE STORAGE ACCOUNT KEYS USING AZ DEVOPS | https://dev.to/arindam0310018/rotate-storage-account-keys-using-az-devops-n71 |
